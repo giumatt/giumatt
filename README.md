@@ -37,14 +37,6 @@
      src="https://komarev.com/ghpvc/?username=giumatt&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
-     alt="CodeFactor" /></a>
-  <a href="github.com/giumatt" target="blank"><img align="center" 
-     src="https://github.com/giumatt/giumatt/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
-     alt="page built"/></a>
-  </p>
  <p align="center">
   <a href="github.com/1999AZZAR" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
