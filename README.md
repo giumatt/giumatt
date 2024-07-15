@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Mattia</h1>
-<h4 align="center">An engineering student at Università della Calabria, in Italy.</h4>
+<h4 align="center">A Computer Engineering student at Università della Calabria, in Italy.</h4>
 </div>
 
 <div align="center">
