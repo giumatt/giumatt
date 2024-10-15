@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Mattia</h1>
-<h4 align="center">BSc in Computer Engineering -  MSc in Cybersecurity student at Università della Calabria, Italy.</h4>
+<h4 align="center">BSc in Computer Engineering -  MSc student in Cybersecurity at Università della Calabria, Italy.</h4>
 </div>
 
 <div align="center">
