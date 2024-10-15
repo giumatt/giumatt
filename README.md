@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Mattia</h1>
-<h4 align="center">A Computer Engineering student at Università della Calabria, in Italy.</h4>
+<h4 align="center">BSc in Computer Engineering -  MSc in Cybersecuruty student at Università della Calabria, Italy.</h4>
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
     <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/giuseppe-mattia-greco-099a921b1/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/giuseppe-mattia-greco/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="mailto:giumatt99@gmail.com" target="blank"><img align="center"
